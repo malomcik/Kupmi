@@ -1,0 +1,375 @@
+.mediaViewInfo {
+	--web-view-name: Web 1920 – 1;
+	--web-view-id: Web_1920__1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Web_1920__1;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Web_1920__1 {
+	position: absolute;
+	width: 1920px;
+	height: 2160px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Web 1920 – 1;
+	--web-view-id: Web_1920__1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#Web_1920__1_l {
+	position: absolute;
+	width: 1920px;
+	height: 2160px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Component_3__1 {
+	position: absolute;
+	width: 925px;
+	height: 74px;
+	left: 418.294px;
+	top: 36px;
+	overflow: visible;
+}
+#kupmipl {
+	left: 0px;
+	top: 22px;
+	position: absolute;
+	overflow: visible;
+	width: 179px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Utopia Std Headline;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(151,139,203,1);
+}
+#Component_1__1 {
+	position: absolute;
+	width: 585.45px;
+	height: 30px;
+	left: 269.55px;
+	top: 22px;
+	overflow: visible;
+}
+#o_nas {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 63px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: register.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Sitka Display;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+#jak_to_dziaa {
+	left: 123.449px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 145px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: moje_konto.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Sitka Display;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+#docz {
+	left: 328.899px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 75px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: jak_dziala.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Sitka Display;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+#moje_konto {
+	left: 452.45px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 134px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: o_nas.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Sitka Display;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+#Line_3 {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 4px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_3 {
+	overflow: visible;
+	position: absolute;
+	width: 4px;
+	height: 74px;
+	left: 925px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Icon_awesome-caret-down {
+	fill: rgba(255,255,255,1);
+}
+.Icon_awesome-caret-down {
+	filter: drop-shadow(0px 4px 6px rgba(0, 0, 0, 0.161));
+	overflow: visible;
+	position: absolute;
+	width: 62.944px;
+	height: 43.351px;
+	left: 929.528px;
+	top: 1014.478px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Component_9__1 {
+	position: absolute;
+	width: 1309px;
+	height: 373.999px;
+	left: 266px;
+	top: 374px;
+	overflow: visible;
+}
+#wymarzony_ {
+	filter: drop-shadow(0px 8px 8px rgba(0, 0, 0, 0.161));
+	left: 0px;
+	top: 40px;
+	position: absolute;
+	overflow: hidden;
+	width: 787px;
+	height: 155px;
+	text-align: right;
+	font-family: Utopia Std Headline;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 120px;
+	color: rgba(255,255,255,1);
+	text-decoration: line-through line-through;
+}
+#nieudany {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	left: 328px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 459px;
+	height: 55px;
+	text-align: right;
+	font-family: Utopia Std Headline;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 55px;
+	color: rgba(255,255,255,1);
+	text-decoration: line-through line-through;
+}
+#prezent {
+	filter: drop-shadow(0px 8px 8px rgba(0, 0, 0, 0.161));
+	left: 827px;
+	top: 40px;
+	position: absolute;
+	overflow: visible;
+	width: 452px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Utopia Std Headline;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 120px;
+	color: rgba(255,255,255,1);
+}
+#Group_1 {
+	position: absolute;
+	width: 267.999px;
+	height: 80.999px;
+	left: 194px;
+	top: 293px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: jak_dziala.html;
+	cursor: pointer;
+}
+#Subtraction_1 {
+	fill: rgba(255,255,255,1);
+}
+.Subtraction_1 {
+	filter: drop-shadow(0px 5px 7px rgba(0, 0, 0, 0.161));
+	overflow: visible;
+	position: absolute;
+	width: 288.999px;
+	height: 101.999px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#dla_bliskiej_osoby_jest_w_zasi {
+	transform: translate(0px, 0px) matrix(1,0,0,1,51,169) rotate(0deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 1259px;
+	height: 186px;
+	text-align: right;
+	font-family: Sitka Display;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(255,255,255,1);
+}
+#Kupmipl_1 {
+	filter: drop-shadow(0px 4px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 73.633px;
+	height: 73.633px;
+	left: 312.649px;
+	top: 36px;
+	overflow: visible;
+}
+#Icon_awesome-facebook-square {
+	fill: rgba(255,255,255,1);
+}
+.Icon_awesome-facebook-square {
+	overflow: visible;
+	position: absolute;
+	width: 42px;
+	height: 42.578px;
+	left: 1407.966px;
+	top: 51.487px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Icon_simple-instagram {
+	fill: rgba(255,255,255,1);
+}
+.Icon_simple-instagram {
+	overflow: visible;
+	position: absolute;
+	width: 42.443px;
+	height: 43.026px;
+	left: 1498.966px;
+	top: 51.487px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Icon_material-email {
+	fill: rgba(255,255,255,1);
+}
+.Icon_material-email {
+	overflow: visible;
+	position: absolute;
+	width: 55.345px;
+	height: 43.026px;
+	left: 1585.966px;
+	top: 51.487px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#szukam_prezentu_dla_ {
+	filter: drop-shadow(0px 4px 6px rgba(0, 0, 0, 0.161));
+	left: 396.5px;
+	top: 1515.5px;
+	position: absolute;
+	overflow: visible;
+	width: 518px;
+	height: 45px;
+	text-align: right;
+	font-family: Utopia Std Headline;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 45px;
+	color: rgba(151,139,203,1);
+}
+form {
+    background-color: white;
+    width: 500px;
+    height: 44px;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  }
+  input {
+    all: unset;
+    font: 16px system-ui;
+    color: black;
+    height: 100%;
+    width: 100%;
+    padding: 6px 10px;
+  }
+  ::placeholder {
+    color: #978BCB;
+    opacity: 0.7; 
+  }
+  button {
+    all: unset;
+    cursor: pointer;
+    width: 44px;
+    height: 44px;
+  }
+#n_Kupmipl__2022 {
+	filter: drop-shadow(0px 4px 6px rgba(0, 0, 0, 0.161));
+	left: 866px;
+	top: 2123px;
+	position: absolute;
+	overflow: visible;
+	width: 189px;
+	height: 37px;
+	text-align: right;
+	font-family: Sitka Banner;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}

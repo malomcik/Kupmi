@@ -1,0 +1,323 @@
+.mediaViewInfo {
+	--web-view-name: Web 1920 – 4;
+	--web-view-id: Web_1920__4;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Web_1920__4;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Web_1920__4 {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Web 1920 – 4;
+	--web-view-id: Web_1920__4;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#Web_1920__4_ba {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Component_3__5 {
+	position: absolute;
+	width: 923px;
+	height: 74px;
+	left: 418.295px;
+	top: 36px;
+	overflow: visible;
+}
+#kupmipl_bc {
+	left: 0px;
+	top: 17px;
+	position: absolute;
+	overflow: visible;
+	width: 179px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: index.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Utopia Std Headline;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(255,255,255,1);
+}
+#Component_1__1_bd {
+	position: absolute;
+	width: 585.45px;
+	height: 30px;
+	left: 267.55px;
+	top: 22px;
+	overflow: visible;
+}
+#o_nas_be {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 63px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: register.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Sitka Display;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+#jak_to_dziaa_bf {
+	left: 123.45px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 145px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: moje_konto.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Sitka Display;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+#docz_bg {
+	left: 328.899px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 75px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: jak_dziala.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Sitka Display;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+#moje_konto_bh {
+	left: 452.45px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 134px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Sitka Display;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+#Line_3_bi {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 4px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_3_bi {
+	overflow: visible;
+	position: absolute;
+	width: 4px;
+	height: 74px;
+	left: 923px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Icon_awesome-facebook-square_bj {
+	fill: rgba(255,255,255,1);
+}
+.Icon_awesome-facebook-square_bj {
+	overflow: visible;
+	position: absolute;
+	width: 42px;
+	height: 42.578px;
+	left: 1407.966px;
+	top: 51.487px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Icon_simple-instagram_bk {
+	fill: rgba(255,255,255,1);
+}
+.Icon_simple-instagram_bk {
+	overflow: visible;
+	position: absolute;
+	width: 42.442px;
+	height: 43.026px;
+	left: 1498.966px;
+	top: 51.487px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Icon_material-email_bl {
+	fill: rgba(255,255,255,1);
+}
+.Icon_material-email_bl {
+	overflow: visible;
+	position: absolute;
+	width: 52.499px;
+	height: 43.026px;
+	left: 1585.966px;
+	top: 51.487px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#logo_bialy {
+	position: absolute;
+	width: 73.63px;
+	height: 73.63px;
+	left: 311.6px;
+	top: 32.685px;
+	overflow: visible;
+}
+#Subtraction_2 {
+	fill: rgba(249,249,249,1);
+}
+.Subtraction_2 {
+	filter: drop-shadow(0px 2px 6px rgba(0, 0, 0, 0.161));
+	overflow: visible;
+	position: absolute;
+	width: 385.037px;
+	height: 113.003px;
+	left: 1290.429px;
+	top: 492.499px;
+	transform: matrix(1,0,0,1,0,0);
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: jak_dziala.html;
+	cursor: pointer;
+}
+#Nie_jeste_uytkownikiem {
+	left: 1198px;
+	top: 420px;
+	position: absolute;
+	overflow: visible;
+	width: 515px;
+	height: 50px;
+	text-align: right;
+	font-family: Sitka Banner;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(255,255,255,1);
+}
+#nick {
+	left: 345.795px;
+	top: 471.003px;
+	position: absolute;
+	overflow: visible;
+	width: 70px;
+	height: 35px;
+	text-align: right;
+	font-family: Sitka Banner;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 35px;
+	color: rgba(151,139,203,1);
+}
+form {   
+	border: none;
+	left: 0px;
+	top: 0px;
+	position: absolute;  
+}   
+input[type=text], input[type=password] {   
+	width: 400px;   
+	height:60px;
+	margin: 30px 20px;  
+	padding: 12px 20px;   
+	display: inline-block;   
+	border: none;  
+	box-sizing: border-box;  
+} 
+
+.container {   
+	padding: 25px;    
+}   
+.zatwierdz{
+   width:278px;
+   height:80px;
+   margin: 30px 95px;
+}
+#haso {
+	left: 345.795px;
+	top: 598.003px;
+	position: absolute;
+	overflow: visible;
+	width: 84px;
+	height: 35px;
+	text-align: right;
+	font-family: Sitka Banner;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 35px;
+	color: rgba(151,139,203,1);
+}
+#n_Kupmipl__2022_br {
+	filter: drop-shadow(0px 4px 6px rgba(0, 0, 0, 0.161));
+	left: 866px;
+	top: 1043px;
+	position: absolute;
+	overflow: visible;
+	width: 189px;
+	height: 37px;
+	text-align: right;
+	font-family: Sitka Banner;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#Exclusion_1 {
+	fill: rgba(151,139,203,1);
+}
+.Exclusion_1 {
+	filter: drop-shadow(0px 2px 6px rgba(0, 0, 0, 0.161));
+	overflow: visible;
+	position: absolute;
+	width: 278px;
+	height: 79.999px;
+	left: 462.293px;
+	top: 760.004px;
+	transform: matrix(1,0,0,1,0,0);
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: logowanie.html;
+	cursor: pointer;
+}
